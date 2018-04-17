@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UiThreadJava</string>
+    <string name="btnOkay">Okay</string>
+</resources>

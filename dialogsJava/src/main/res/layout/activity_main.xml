@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnAlert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="alert"
+        android:text="Alert"
+        tools:ignore="OnClick" />
+
+
+    <Button
+        android:id="@+id/btnDtPk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="datePicker"
+        android:text="DatePicker"
+        tools:ignore="OnClick" />
+
+
+    <Button
+        android:id="@+id/btnTmPk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="timePicker"
+        android:text="TimePicker"
+        tools:ignore="OnClick" />
+
+
+    <Button
+        android:id="@+id/btnProg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="progress"
+        android:text="Progress"
+        tools:ignore="OnClick" />
+
+
+    <Button
+        android:id="@+id/btnCust"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="MainActivity"
+        android:text="Custom"
+        tools:ignore="OnClick" />
+
+</LinearLayout>

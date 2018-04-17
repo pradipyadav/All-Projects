@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:weightSum="1"
+    android:orientation="vertical">
+
+    <!--<fragment-->
+        <!--android:id="@+id/fragImg"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="200dp"-->
+        <!--class="com.example.fragment.ImageFragment"/>-->
+
+
+    <!--<fragment-->
+        <!--android:id="@+id/frameLogin"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--class="com.example.fragment.BlankFragment"-->
+       <!--android:layout_below="@id/fragImg"-->
+        <!--/>-->
+
+    <FrameLayout
+        android:id="@+id/frmclr"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.7"
+        />
+    <fragment
+        android:id="@+id/frmbtn"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.3"
+        class="com.example.fragment.ButtonFragment"/>
+</LinearLayout>

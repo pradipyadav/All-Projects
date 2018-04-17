@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="alert">Alert</string>
+    <string name="datepicker">DatePicker</string>
+    <string name="timepiker">TimePiker</string>
+    <string name="progress">Progress</string>
+    <string name="custom">Custom</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="msg">Message</string>
+    <string name="btnYes">YES</string>
+    <string name="btnNo">NO</string>
+    <string name="editUserName">User Name</string>
+    <string name="btnOkay">Okay</string>
+</resources>
