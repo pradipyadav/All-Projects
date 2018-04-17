@@ -4,6 +4,7 @@ package com.example.fragmentkotlin
 import android.os.Bundle
 //import android.support.v4.app.Fragment
 import android.app.Fragment
+import android.graphics.Color
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -27,13 +28,19 @@ class BlankFragment : Fragment() {
 
         val rtVw=inflater.inflate(R.layout.fragment_blank, container, false)
         rtVw.findViewById<Button>(R.id.btnMob).setOnClickListener {
-            (activity as MainActivity).loadFrag(Mobile())
+//            (activity as MainActivity).loadFrag(Mobile())
+
+            (activity as MainActivity).loadFrag(SimpleFragment.create(Color.DKGRAY))
         }
         rtVw.findViewById<Button>(R.id.btnLaptop).setOnClickListener {
-            (activity as MainActivity).loadFrag(Laptop())
+//            (activity as MainActivity).loadFrag(Laptop())
+
+            (activity as MainActivity).loadFrag(SimpleFragment.create(Color.LTGRAY))
         }
         rtVw.findViewById<Button>(R.id.btnTv).setOnClickListener {
-            (activity as MainActivity).loadFrag(TV())
+//            (activity as MainActivity).loadFrag(TV())
+
+            (activity as MainActivity).loadFrag(SimpleFragment.create(Color.YELLOW))
         }
         return rtVw
     }
