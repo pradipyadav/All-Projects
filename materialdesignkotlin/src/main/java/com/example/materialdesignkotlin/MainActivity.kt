@@ -15,7 +15,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         setSupportActionBar(toolbar)
-
         fab.setOnClickListener { view ->
             Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                     .setAction("Action", null).show()
@@ -34,12 +33,9 @@ class MainActivity : AppCompatActivity() {
         // as you specify a parent activity in AndroidManifest.xml.
         return when (item.itemId) {
             R.id.action_settings -> true
-            R.id.action_copy -> {
+            R.id.action_act1 ->{
                 startActivity(
-                        Intent(
-                                this@MainActivity,
-                                Main2Activity::class.java
-                        )
+                        Intent(this@MainActivity , Main2Activity::class.java)
                 )
                 return true
             }

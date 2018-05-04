@@ -1,7 +1,7 @@
 package com.example.materialdesignkotlin
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 class Main2Activity : AppCompatActivity() {
