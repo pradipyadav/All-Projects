@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DialogKotlin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alert">Alert</string>
+    <string name="datepicker">DatePicker</string>
+    <string name="timepicker">TimePicker</string>
+    <string name="currentdate">CurrentDate</string>
+    <string name="currenttime">CurrentTime</string>
+    <string name="customdialog">CustomDialog</string>
+</resources>

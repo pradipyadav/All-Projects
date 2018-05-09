@@ -17,11 +17,13 @@
             <option value="$PROJECT_DIR$/broadcastrcvrkotlin" />
             <option value="$PROJECT_DIR$/broadcastrec" />
             <option value="$PROJECT_DIR$/customviewkotlin" />
+            <option value="$PROJECT_DIR$/dialogkotlin" />
             <option value="$PROJECT_DIR$/dialogsJava" />
             <option value="$PROJECT_DIR$/fragmentJava" />
             <option value="$PROJECT_DIR$/fragmentkotlin" />
             <option value="$PROJECT_DIR$/hndchngs" />
             <option value="$PROJECT_DIR$/intentsandintentfiltersjava" />
+            <option value="$PROJECT_DIR$/internalstorage" />
             <option value="$PROJECT_DIR$/lifecycle" />
             <option value="$PROJECT_DIR$/lifecyclejava" />
             <option value="$PROJECT_DIR$/materialdesign" />
@@ -29,6 +31,7 @@
             <option value="$PROJECT_DIR$/materialdsnkot" />
             <option value="$PROJECT_DIR$/navdrawer" />
             <option value="$PROJECT_DIR$/service" />
+            <option value="$PROJECT_DIR$/sharedprefs" />
             <option value="$PROJECT_DIR$/simplevalueresorcesJava" />
             <option value="$PROJECT_DIR$/statusbarjava" />
             <option value="$PROJECT_DIR$/toastjava" />

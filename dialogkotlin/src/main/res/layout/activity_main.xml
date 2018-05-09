@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    tools:layout_editor_absoluteY="81dp"
+    android:background="#d9b3b3">
+
+    <Button
+        android:id="@+id/btnAlrt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="53dp"
+        android:text="@string/alert"
+        app:layout_constraintStart_toStartOf="@+id/btnDtp"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnDtp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="114dp"
+        android:layout_marginTop="27dp"
+        android:text="@string/datepicker"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnAlrt" />
+
+    <Button
+        android:id="@+id/btnTmp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/timepicker"
+        app:layout_constraintEnd_toEndOf="@+id/btnDtp"
+        app:layout_constraintTop_toBottomOf="@+id/btnDtp" />
+
+    <Button
+        android:id="@+id/btnCrtDt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="28dp"
+        android:text="@string/currentdate"
+        app:layout_constraintBottom_toTopOf="@+id/btnCrtTm"
+        app:layout_constraintStart_toStartOf="@+id/btnCrtTm" />
+
+    <Button
+        android:id="@+id/btnCrtTm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:layout_marginStart="116dp"
+        android:text="@string/currenttime"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btnCstmDlg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="26dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/customdialog"
+        app:layout_constraintBottom_toTopOf="@+id/btnCrtDt"
+        app:layout_constraintStart_toStartOf="@+id/btnCrtDt"
+        app:layout_constraintTop_toBottomOf="@+id/btnTmp" />
+</android.support.constraint.ConstraintLayout>
