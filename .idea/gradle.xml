@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/dialogsJava" />
             <option value="$PROJECT_DIR$/fragmentJava" />
             <option value="$PROJECT_DIR$/fragmentkotlin" />
+            <option value="$PROJECT_DIR$/googlekeep" />
             <option value="$PROJECT_DIR$/hndchngs" />
             <option value="$PROJECT_DIR$/intentsandintentfiltersjava" />
             <option value="$PROJECT_DIR$/internalstorage" />
@@ -34,6 +35,8 @@
             <option value="$PROJECT_DIR$/sharedprefs" />
             <option value="$PROJECT_DIR$/simplevalueresorcesJava" />
             <option value="$PROJECT_DIR$/statusbarjava" />
+            <option value="$PROJECT_DIR$/statusbarkotlin" />
+            <option value="$PROJECT_DIR$/statusbarnfnKotlin" />
             <option value="$PROJECT_DIR$/toastjava" />
             <option value="$PROJECT_DIR$/uithreadjava" />
           </set>
