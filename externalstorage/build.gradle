@@ -7,7 +7,7 @@ android {
 
 
     defaultConfig {
-        applicationId "com.example.googlekeep"
+        applicationId "com.example.externalstorage"
         minSdkVersion 21
         targetSdkVersion 27
         versionCode 1

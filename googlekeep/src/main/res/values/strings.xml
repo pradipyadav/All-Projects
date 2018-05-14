@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">GoogleKeep</string>
-    <string name="title">Title</string>
-    <string name="note">Note</string>
-    <string name="save">save</string>
-    <string name="show">Show</string>
-    <string name="check">Check</string>
-</resources>
