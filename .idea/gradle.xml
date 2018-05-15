@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/asstsmlvlersrskotlin" />
             <option value="$PROJECT_DIR$/broadcastrcvrkotlin" />
             <option value="$PROJECT_DIR$/broadcastrec" />
+            <option value="$PROJECT_DIR$/contentprovider" />
             <option value="$PROJECT_DIR$/customviewkotlin" />
             <option value="$PROJECT_DIR$/dialogkotlin" />
             <option value="$PROJECT_DIR$/dialogsJava" />
@@ -35,6 +36,8 @@
             <option value="$PROJECT_DIR$/service" />
             <option value="$PROJECT_DIR$/sharedprefs" />
             <option value="$PROJECT_DIR$/simplevalueresorcesJava" />
+            <option value="$PROJECT_DIR$/sqlitedtbs" />
+            <option value="$PROJECT_DIR$/sqlitjava" />
             <option value="$PROJECT_DIR$/statusbarjava" />
             <option value="$PROJECT_DIR$/statusbarkotlin" />
             <option value="$PROJECT_DIR$/statusbarnfnKotlin" />

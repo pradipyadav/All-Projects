@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SqlitJava</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="insert">INSERT</string>
+    <string name="update">Update</string>
+    <string name="delete">DELETE</string>
+    <string name="qury">QURY</string>
+</resources>
