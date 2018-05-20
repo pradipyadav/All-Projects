@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.provider.ContactsContract
 import android.widget.ArrayAdapter
+import com.example.contentprovider.R.id.listView
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -44,11 +45,11 @@ class MainActivity : AppCompatActivity() {
             dt.add("$nm \n $num")
         }
 
-        listView.adapter = ArrayAdapter<String>(
-                this@MainActivity,
-                android.R.layout.simple_list_item_1,
-                dt
-        )
-        crsr.close()
+//        listView.adapter = ArrayAdapter<String>(
+//                this@MainActivity,
+//                android.R.layout.simple_list_item_1,
+//                dt
+//        )
+//        crsr.close()
     }
 }

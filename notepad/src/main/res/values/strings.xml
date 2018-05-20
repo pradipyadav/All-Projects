@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotePad</string>
+    <string name="id">Id - </string>
+    <string name="type_here">Type here...</string>
+    <string name="update">Update</string>
+    <string name="view">View</string>
+    <string name="save">Save</string>
+    <string name="title">Title -</string>
+
+</resources>

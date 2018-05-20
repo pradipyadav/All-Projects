@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/broadcastrcvrkotlin" />
             <option value="$PROJECT_DIR$/broadcastrec" />
             <option value="$PROJECT_DIR$/contentprovider" />
+            <option value="$PROJECT_DIR$/contentproviderjava" />
             <option value="$PROJECT_DIR$/customviewkotlin" />
             <option value="$PROJECT_DIR$/dialogkotlin" />
             <option value="$PROJECT_DIR$/dialogsJava" />
@@ -33,10 +34,13 @@
             <option value="$PROJECT_DIR$/materialdesignkotlin" />
             <option value="$PROJECT_DIR$/materialdsnkot" />
             <option value="$PROJECT_DIR$/navdrawer" />
+            <option value="$PROJECT_DIR$/notepad" />
+            <option value="$PROJECT_DIR$/notepadapp" />
             <option value="$PROJECT_DIR$/service" />
             <option value="$PROJECT_DIR$/sharedprefs" />
             <option value="$PROJECT_DIR$/simplevalueresorcesJava" />
             <option value="$PROJECT_DIR$/sqlitedtbs" />
+            <option value="$PROJECT_DIR$/sqlitedtbsjava" />
             <option value="$PROJECT_DIR$/sqlitjava" />
             <option value="$PROJECT_DIR$/statusbarjava" />
             <option value="$PROJECT_DIR$/statusbarkotlin" />

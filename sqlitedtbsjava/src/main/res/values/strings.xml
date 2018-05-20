@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLiteDtBsJava</string>
+    <string name="name">Name</string>
+    <string name="Surname">Surname</string>
+    <string name="Marks">Marks</string>
+    <string name="add_data">Add Data</string>
+    <string name="id">Id</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
