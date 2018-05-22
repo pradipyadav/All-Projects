@@ -28,6 +28,8 @@
             <option value="$PROJECT_DIR$/hndchngs" />
             <option value="$PROJECT_DIR$/intentsandintentfiltersjava" />
             <option value="$PROJECT_DIR$/internalstorage" />
+            <option value="$PROJECT_DIR$/jsonparsing" />
+            <option value="$PROJECT_DIR$/jsonparsingjava" />
             <option value="$PROJECT_DIR$/lifecycle" />
             <option value="$PROJECT_DIR$/lifecyclejava" />
             <option value="$PROJECT_DIR$/materialdesign" />
@@ -47,6 +49,8 @@
             <option value="$PROJECT_DIR$/statusbarnfnKotlin" />
             <option value="$PROJECT_DIR$/toastjava" />
             <option value="$PROJECT_DIR$/uithreadjava" />
+            <option value="$PROJECT_DIR$/webservices" />
+            <option value="$PROJECT_DIR$/webservicesjava" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,0 +1,23 @@
+{
+  "os" : "Android",
+  "nm" : "Oreo",
+  "vs" : 8,
+  "obj" : {
+    "inv" : "Andy",
+    "age" : 8
+},
+  "list" : [
+    {
+      "inv" : "Andy",
+      "Age" : 8
+    },
+    {
+      "inv" : "Apple",
+      "Age" : 9
+    },
+    {
+      "inv" : "Moto",
+      "Age" : 10
+    }
+  ]
+}

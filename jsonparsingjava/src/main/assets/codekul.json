@@ -1,0 +1,17 @@
+{
+  "name" : "Pradip",
+  "rating" : "Popularity",
+  "popularity" : "90",
+
+  "Courses" : [
+    "Android",
+    "Kotlin",
+    "Angular",
+    "Java"
+  ],
+
+  "Infra" : {
+    "Tables" : true,
+    "Chair" : 50
+  }
+}
