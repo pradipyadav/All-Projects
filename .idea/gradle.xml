@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/alters" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/asstsmlvlersrskotlin" />
+            <option value="$PROJECT_DIR$/blutooth" />
             <option value="$PROJECT_DIR$/broadcastrcvrkotlin" />
             <option value="$PROJECT_DIR$/broadcastrec" />
             <option value="$PROJECT_DIR$/contentprovider" />
@@ -25,6 +26,8 @@
             <option value="$PROJECT_DIR$/fragmentJava" />
             <option value="$PROJECT_DIR$/fragmentkotlin" />
             <option value="$PROJECT_DIR$/googlekeep" />
+            <option value="$PROJECT_DIR$/googlemapjava" />
+            <option value="$PROJECT_DIR$/googlemapkotlin" />
             <option value="$PROJECT_DIR$/hndchngs" />
             <option value="$PROJECT_DIR$/intentsandintentfiltersjava" />
             <option value="$PROJECT_DIR$/internalstorage" />
@@ -38,6 +41,7 @@
             <option value="$PROJECT_DIR$/navdrawer" />
             <option value="$PROJECT_DIR$/notepad" />
             <option value="$PROJECT_DIR$/notepadapp" />
+            <option value="$PROJECT_DIR$/sensors" />
             <option value="$PROJECT_DIR$/service" />
             <option value="$PROJECT_DIR$/sharedprefs" />
             <option value="$PROJECT_DIR$/simplevalueresorcesJava" />
@@ -51,6 +55,7 @@
             <option value="$PROJECT_DIR$/uithreadjava" />
             <option value="$PROJECT_DIR$/webservices" />
             <option value="$PROJECT_DIR$/webservicesjava" />
+            <option value="$PROJECT_DIR$/wifi" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
